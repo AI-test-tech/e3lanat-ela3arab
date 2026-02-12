@@ -1,4 +1,31 @@
-<!DOCTYPE html>
+const fs = require('fs');
+const path = require('path');
+
+console.log('🔧 إصلاح مشكلة 404 في GitHub Pages...\n');
+
+const rootDir = path.join(__dirname, '..');
+
+// 1. التأكد من وجود .nojekyll
+const nojekyllPath = path.join(rootDir, '.nojekyll');
+if (!fs.existsSync(nojekyllPath)) {
+    fs.writeFileSync(nojekyllPath, '', 'utf8');
+    console.log('✅ تم إنشاء .nojekyll');
+} else {
+    console.log('✅ .nojekyll موجود');
+}
+
+// 2. التأكد من index.html في الـ root
+const indexPath = path.join(rootDir, 'index.html');
+if (fs.existsSync(indexPath)) {
+    console.log('✅ index.html موجود في الـ root');
+} else {
+    console.log('❌ index.html غير موجود!');
+    process.exit(1);
+}
+
+// 3. إصلاح 404.html
+const html404Path = path.join(rootDir, '404.html');
+const html404Content = `<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -64,4 +91,15 @@
         }, 5000);
     </script>
 </body>
-</html>
+</html>`;
+
+fs.writeFileSync(html404Path, html404Content, 'utf8');
+console.log('✅ تم إصلاح 404.html');
+
+console.log('\n✅ تم إصلاح جميع مشاكل GitHub Pages!');
+console.log('\n📝 الخطوات التالية:');
+console.log('1. git add .');
+console.log('2. git commit -m "Fix GitHub Pages 404"');
+console.log('3. git push new-origin main');
+console.log('4. انتظر 2-3 دقائق');
+console.log('5. زر الموقع على: https://ai-test-tech.github.io/e3lanat-ela3arab/');
