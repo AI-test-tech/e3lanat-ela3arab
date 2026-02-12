@@ -1,13 +1,17 @@
-﻿User-agent: *
+# Robots.txt for ArabSad Digital Marketing
+User-agent: *
 Allow: /
 
 # Sitemaps
 Sitemap: https://storesads.shop/sitemap.xml
 
-# Crawl-delay
-Crawl-delay: 1
-
-# Disallow admin areas
+# Disallow admin and scripts
 Disallow: /scripts/
 Disallow: /.git/
 Disallow: /node_modules/
+Disallow: /react-app/
+
+# Allow CSS and JS
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/images/
