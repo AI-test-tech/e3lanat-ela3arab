@@ -1,4 +1,4 @@
-const { execSync } = require('child_process');
+﻿const { execSync } = require('child_process');
 
 console.log('🔧 تشغيل المهام الكبيرة...');
 

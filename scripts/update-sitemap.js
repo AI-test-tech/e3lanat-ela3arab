@@ -1,7 +1,7 @@
-const fs = require('fs');
+﻿const fs = require('fs');
 const path = require('path');
 
-const domain = 'https://arabsads.storesads.shop';
+const domain = 'https://storesads.shop';
 const today = new Date().toISOString().split('T')[0];
 
 // تحديث sitemap.xml

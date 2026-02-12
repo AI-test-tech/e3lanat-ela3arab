@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "arabsad",
   "version": "2.0.0",
   "description": "موقع إعلانات العرب - خدمات التسويق الرقمي",
@@ -29,6 +29,6 @@
     "سيو",
     "مواقع"
   ],
-  "author": "arabsads.storesads.shop",
+  "author": "storesads.shop",
   "license": "MIT"
 }

@@ -1,4 +1,4 @@
-// Universal Header Footer System
+﻿// Universal Header Footer System
 document.addEventListener('DOMContentLoaded', function() {
   // Load header and footer
   loadIncludes();

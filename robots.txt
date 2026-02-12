@@ -1,8 +1,8 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://arabsads.storesads.shop/sitemap.xml
+Sitemap: https://storesads.shop/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1

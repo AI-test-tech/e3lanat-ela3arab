@@ -1,4 +1,4 @@
-# إصلاح الهيدر والفوتر - Header & Footer Fix
+﻿# إصلاح الهيدر والفوتر - Header & Footer Fix
 
 ## المشكلة
 كانت بعض صفحات الموقع تفتقر إلى الهيدر والفوتر، مما يؤثر على تجربة المستخدم والتنقل.
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
 🎉 **جميع صفحات الموقع تحتوي الآن على هيدر وفوتر موحد ومتسق!**
 
 ## اختبار الموقع
-🌐 [https://sherow1982.github.io/arabsad/](https://sherow1982.github.io/arabsad/)
+🌐 [https://storesads.shop/](https://storesads.shop/)
 
 ---
 **تاريخ الإصلاح:** 23 يناير 2025  

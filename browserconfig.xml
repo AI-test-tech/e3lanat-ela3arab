@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <browserconfig>
     <msapplication>
         <tile>
-            <square70x70logo src="/arabsad/favicon.ico"/>
-            <square150x150logo src="/arabsad/favicon.svg"/>
-            <square310x310logo src="/arabsad/assets/images/logo.png"/>
-            <wide310x150logo src="/arabsad/assets/images/logo.png"/>
+            <square70x70logo src="/favicon.ico"/>
+            <square150x150logo src="/favicon.svg"/>
+            <square310x310logo src="/assets/images/logo.png"/>
+            <wide310x150logo src="/assets/images/logo.png"/>
             <TileColor>#26de81</TileColor>
         </tile>
         <notification>
-            <polling-uri src="/arabsad/notifications.xml"/>
+            <polling-uri src="/notifications.xml"/>
             <frequency>30</frequency>
             <cycle>1</cycle>
         </notification>

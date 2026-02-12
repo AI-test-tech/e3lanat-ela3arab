@@ -1,11 +1,11 @@
-{
+﻿{
   "name": "مؤسسة إعلانات العرب للتسويق الرقمي",
   "short_name": "إعلانات العرب",
   "description": "وكالة متخصصة في التسويق الرقمي وإعلانات جوجل والسوشيال وتصميم المواقع والمتاجر في دول الخليج العربي.",
   "lang": "ar",
   "dir": "rtl",
-  "start_url": "/arabsad/",
-  "scope": "/arabsad/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#0f2027",
   "theme_color": "#26de81",
@@ -13,23 +13,23 @@
   "categories": ["business", "marketing", "productivity"],
   "icons": [
     {
-      "src": "/arabsad/favicon.ico",
+      "src": "/favicon.ico",
       "sizes": "48x48",
       "type": "image/x-icon"
     },
     {
-      "src": "/arabsad/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "/arabsad/apple-touch-icon.png",
+      "src": "/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "/arabsad/assets/images/logo.png",
+      "src": "/assets/images/logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -39,31 +39,31 @@
     {
       "name": "Google Ads",
       "short_name": "Google Ads",
-      "url": "/arabsad/services/google-ads.html",
+      "url": "/services/google-ads.html",
       "description": "خدمة Google Ads رقم 1 في الخليج"
     },
     {
       "name": "SEO",
       "short_name": "SEO",
-      "url": "/arabsad/services/seo.html",
+      "url": "/services/seo.html",
       "description": "خدمات تحسين محركات البحث"
     },
     {
       "name": "تصميم المواقع",
       "short_name": "تصميم المواقع",
-      "url": "/arabsad/services/website-design.html",
+      "url": "/services/website-design.html",
       "description": "تصميم وبرمجة مواقع سريعة ومتجاوبة"
     },
     {
       "name": "المتاجر الإلكترونية",
       "short_name": "المتاجر",
-      "url": "/arabsad/services/ecommerce.html",
+      "url": "/services/ecommerce.html",
       "description": "تصميم متاجر إلكترونية عالية التحويل"
     },
     {
       "name": "إدارة السوشيال",
       "short_name": "السوشيال",
-      "url": "/arabsad/services/social-management.html",
+      "url": "/services/social-management.html",
       "description": "إدارة وسائل التواصل الاجتماعي"
     }
   ],

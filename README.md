@@ -1,8 +1,8 @@
-# 🎆 مؤسسة إعلانات العرب - ArabSad Digital Marketing
+﻿# 🎆 مؤسسة إعلانات العرب - ArabSad Digital Marketing
 
-[![Website](https://img.shields.io/website?label=GitHub%20Pages&style=flat-square&url=https%3A%2F%2Fsherow1982.github.io%2Farabsad)](https://sherow1982.github.io/arabsad)
-[![GitHub last commit](https://img.shields.io/github/last-commit/sherow1982/arabsad?style=flat-square)](https://github.com/sherow1982/arabsad/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/sherow1982/arabsad?style=flat-square)](https://github.com/sherow1982/arabsad/issues)
+[![Website](https://img.shields.io/website?label=GitHub%20Pages&style=flat-square&url=https%3A%2F%2Fsherow1982.github.io%2Farabsad)](https://storesads.shop)
+[![GitHub last commit](https://img.shields.io/github/last-commit/sherow1982/arabsad?style=flat-square)](https://github.com/sherow1982/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/sherow1982/arabsad?style=flat-square)](https://github.com/sherow1982/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
 > 🌟 **وكالة تسويق رقمي متخصصة في Google Ads وFacebook Ads وSEO وتصميم المواقع في الخليج العربي**
@@ -13,7 +13,7 @@
 
 ## 🌐 **الموقع المباشر**
 
-🔗 **[sherow1982.github.io/arabsad](https://sherow1982.github.io/arabsad)** - زر الموقع لاستكشاف خدماتنا
+🔗 **[storesads.shop](https://storesads.shop)** - زر الموقع لاستكشاف خدماتنا
 
 ## 💼 **خدماتنا الرئيسية**
 
@@ -46,12 +46,12 @@
 
 | الدولة | المدن الرئيسية | رابط الصفحة |
 |---------|---------------|------------|
-| 🇸🇦 السعودية | الرياض، جدة، الدمام | [sa.html](/arabsad/countries/sa.html) |
-| 🇦🇪 الإمارات | دبي، أبوظبي، الشارقة | [ae.html](/arabsad/countries/ae.html) |
-| 🇰🇼 الكويت | مدينة الكويت، الأحمدي | [kw.html](/arabsad/countries/kw.html) |
-| 🇶🇦 قطر | الدوحة، الريان | [qa.html](/arabsad/countries/qa.html) |
-| 🇧🇭 البحرين | المنامة، المحرق | [bh.html](/arabsad/countries/bh.html) |
-| 🇴🇲 عمان | مسقط، صلالة | [om.html](/arabsad/countries/om.html) |
+| 🇸🇦 السعودية | الرياض، جدة، الدمام | [sa.html](/countries/sa.html) |
+| 🇦🇪 الإمارات | دبي، أبوظبي، الشارقة | [ae.html](/countries/ae.html) |
+| 🇰🇼 الكويت | مدينة الكويت، الأحمدي | [kw.html](/countries/kw.html) |
+| 🇶🇦 قطر | الدوحة، الريان | [qa.html](/countries/qa.html) |
+| 🇧🇭 البحرين | المنامة، المحرق | [bh.html](/countries/bh.html) |
+| 🇴🇲 عمان | مسقط، صلالة | [om.html](/countries/om.html) |
 
 ## ✨ **الميزات الجديدة**
 
@@ -189,7 +189,7 @@ npx http-server .
 ## 📝 **طريقة الاستخدام**
 
 ### 📱 **للعملاء**
-1. زر **[sherow1982.github.io/arabsad](https://sherow1982.github.io/arabsad)**
+1. زر **[storesads.shop](https://storesads.shop)**
 2. اختر الخدمة التي تحتاجها
 3. انقر "📞 استشارة فورية" للتواصل عبر واتساب
 4. احصل على عرض مخصص لمشروعك
@@ -216,7 +216,7 @@ npx http-server .
 - [W3C - Web Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
 
 ### 🛠️ **أدوات الاختبار**
-- [Google PageSpeed Insights](https://pagespeed.web.dev/?url=https://sherow1982.github.io/arabsad)
+- [Google PageSpeed Insights](https://pagespeed.web.dev/?url=https://storesads.shop)
 - [GTmetrix](https://gtmetrix.com/)
 - [WebPageTest](https://www.webpagetest.org/)
 - [Lighthouse CI](https://googlechrome.github.io/lighthouse/)
@@ -226,7 +226,7 @@ npx http-server .
 🎪 **مؤسسة إعلانات العرب**
 
 - 📱 **واتساب**: [+201110760081](https://wa.me/201110760081)
-- 🌐 **الموقع**: [sherow1982.github.io/arabsad](https://sherow1982.github.io/arabsad)
+- 🌐 **الموقع**: [storesads.shop](https://storesads.shop)
 - 📧 **البريد**: info@arabsad.com
 - 📋 **المقر**: مصر - الجيزة - حدائق أكتوبر
 

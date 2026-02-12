@@ -1,4 +1,4 @@
-# 🔗 نظام الباك لنك الداخلي القوي - مؤسسة إعلانات العرب
+﻿# 🔗 نظام الباك لنك الداخلي القوي - مؤسسة إعلانات العرب
 
 ## 📋 نظرة عامة
 
@@ -50,11 +50,11 @@ update-internal-links.sh            # سكريبت التحديث
 
 ```html
 <!-- في <head> -->
-<link rel="stylesheet" href="/arabsad/assets/css/internal-linking.css">
+<link rel="stylesheet" href="/assets/css/internal-linking.css">
 
 <!-- قبل </body> -->
-<script src="/arabsad/assets/js/internal-linking.js"></script>
-<script src="/arabsad/assets/js/internal-linking-analytics.js"></script>
+<script src="/assets/js/internal-linking.js"></script>
+<script src="/assets/js/internal-linking-analytics.js"></script>
 ```
 
 ### 2. تشغيل سكريبت التحديث
@@ -242,7 +242,7 @@ console.log(window.arabsadAnalytics);
 
 - 📱 **واتساب**: [+201110760081](https://wa.me/201110760081)
 - 📧 **البريد**: info@arabsad.com
-- 🌐 **الموقع**: [sherow1982.github.io/arabsad](https://sherow1982.github.io/arabsad)
+- 🌐 **الموقع**: [storesads.shop](https://storesads.shop)
 
 ## 📄 الترخيص
 

@@ -1,4 +1,4 @@
-# humanstxt.org/
+﻿# humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
@@ -13,7 +13,7 @@
 # COMPANY
 
     Name: مؤسسة إعلانات العرب للتسويق الرقمي
-    Website: sherow1982.github.io/arabsad
+    Website: storesads.shop
     WhatsApp: +201110760081
     Services: Google Ads, SEO, Website Design, E-commerce
     Coverage: Gulf Countries (Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman)
